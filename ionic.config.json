@@ -1,0 +1,8 @@
+{
+  "name": "CrpytoTracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d147c520"
+}
